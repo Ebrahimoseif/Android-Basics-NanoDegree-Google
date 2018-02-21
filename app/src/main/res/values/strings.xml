@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="facultytext">Faculty of Electronic Engineering FEE </string>
+    <string name="phone"> 048 3660716</string>
+    <string name="address"> Menouf, Menoufia, Egypt</string>
+    <string name="facultyinfo">The lighthouse of Electronics in the Middle East.it has  the following subfields of electronics:
+    Automatic Control Engineering, Electronics and Electrical Communications Engineering and Computer Science and Engineering.
+</string>
+</resources>
